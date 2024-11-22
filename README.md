@@ -48,8 +48,8 @@
 ### ขั้นตอนการติดตั้ง
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/teratris.git
-cd teratris
+git clone https://github.com/bbrpbbonus/Teratis.git
+cd Teratris
 ```
 
 2. ติดตั้ง dependencies:
